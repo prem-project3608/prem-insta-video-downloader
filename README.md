@@ -19,11 +19,11 @@
 
 ## NPM INSTALL 
 ```bash
-npm install npm install prem-ig-downloader
+npm install prem-insta-video-downloader
 ```
 ## PREM INSTAGRAM EXAMPLE 
 ```js
-const prem_instagramGetUrl = require("npm install prem-ig-downloader")
+const prem_instagramGetUrl = require("npm install prem-insta-video-downloader")
 let URL = await prem_instagramGetUrl("https://www.facebook.com/")
 console.log(URL)
 ```
