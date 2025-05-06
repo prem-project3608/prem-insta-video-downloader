@@ -1,5 +1,5 @@
 {
-  "name": "prem-ig-downloader",
+  "name": "prem-insta-video-downloader",
   "version": "3.0.0",
   "description": "THIS PROJECT IS MADE BY MR PREM BABU",
   "main": "prem-babu/prem-instagram.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prem-project3608/prem-ig-downloader.git"
+    "url": "git+https://github.com/prem-project3608/prem-insta-video-downloader.git"
   },
   "keywords": [
     "PREM PROJECT",
